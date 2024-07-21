@@ -1,0 +1,283 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contanier {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 10px;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #3F3B3D;
+}
+
+ul li a:hover {
+    color: red;
+}
+.btn5:hover{
+    background-color: white;
+    color: #F14814;
+    border: 1px solid #F14814 ;
+}
+ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+}
+
+.h11 {
+    font-size: 40px;
+    text-align: center;
+    color: #F14814;
+}
+
+ul button {
+    padding: 14px 18px;
+    color: black;
+    border: none;
+    background-color: #DDDBDA;
+    border-radius: 4px;
+}
+
+.hero {
+    background-color: #3F3B3D;
+    margin: 20px 0px;
+}
+
+.hero .contanier {
+    align-items: center;
+    gap: 50px;
+    display: flex;
+
+}
+
+.hero-div1 {
+    color: white;
+}
+
+.hero-img img {
+    margin-top: 20px;
+}
+.btn:hover{
+    background-color: wheat;
+    color: #F14814;
+
+}
+
+.btn {
+    background-color: #F14814;
+    color: white;
+    padding: 16px 18px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
+
+.btn2 {
+    padding: 14px 18px;
+    background-color: inherit;
+    border: none;
+    margin-top: 20px;
+}
+
+.ready {
+    max-width: 700px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.free {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.img-box {
+    background-image: url('./img/IMAGE\ \(24\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+}
+
+.img-box h2 {
+    font-size: 12px;
+    color: #3F3B3D;
+}
+
+.img-box p {
+    font-size: 12px;
+    color: #3F3B3D;
+}
+
+.img-text {
+    display: flex;
+    gap: 130px;
+
+}
+
+.tuqum .contanier {
+    margin-top: 90px;
+    display: flex;
+    gap: 10px;
+}
+
+.negr {
+    background-image: url('./img/IMAGE\ \(25\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+}
+
+.negr2 {
+    background-image: url('./img/IMAGE\ \(26\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    margin-left: 545px;
+    margin-top: -400px;
+}
+
+.negr div h1 {
+    font-size: 40px;
+}
+
+.negr2 div h1 {
+    font-size: 40px;
+}
+
+.negr2 div p {
+    margin-left: 100px;
+}
+
+.negr div {
+    color: white;
+    margin-left: 220px;
+
+}
+
+.negr2 div {
+    color: white;
+    margin-left: 200px;
+}
+
+.h112 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 40px 0;
+}
+
+.story .contanier {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.get-the-rest {
+    background-color: #DCEAE9;
+    max-width: 536px;
+
+}
+
+.get-the-rest h1 {
+    padding: 215px 64px;
+}
+
+.cleo {
+    max-width: 246px;
+    text-align: center;
+}
+
+.brend .contanier {
+    display: flex;
+    gap: 70px;
+    margin-top: 63px;
+}
+
+.fevral {
+    background-image: url('./img/IMAGE\ \(32\).png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 600px;
+
+}
+
+.fev26 p {
+    margin: 10px 0;
+}
+
+.fev26 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.kop-negrlaar {
+    background-color: #3F3B3D;
+
+}
+
+.kop-negrlaar h1 {
+    color: white;
+    max-width: 320px;
+}
+
+.negrlar-rasmi {
+    display: flex;
+    gap: 40px;
+    margin: 32px 0 64px 0;
+}
+
+.chiziq h1 {
+    margin: 0px 0px 67px 0;
+}
+
+.Subscribe {
+    display: flex;
+    gap: 100px;
+    color: white;
+}
+.p-lar p:hover{
+  color: #F14814;
+}
+
+.p-lar p {
+    margin: 10px 0;
+}
+.btn3{
+    padding: 9px 12px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #F14814;
+}
+.btn3:hover{
+    color: #F14814;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+.footer{
+    background-color: #3F3B3D;
+    display: flex;
+    justify-content:space-between;
+    padding: 10px 0;
+}
